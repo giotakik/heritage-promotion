@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q1422965
+title:  Λίμνη Τριχωνίδα
+---
+
+Sample text  
