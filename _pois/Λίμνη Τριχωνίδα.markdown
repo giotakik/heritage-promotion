@@ -1,7 +1,0 @@
----
-layout: poi
-wikidatum: Q1422965
-title:  Λίμνες Αιτωλοακαρνανίας
----
-
-Sample text  
