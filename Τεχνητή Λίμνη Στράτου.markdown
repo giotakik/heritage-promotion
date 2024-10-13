@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q1479231
+title:  Τεχνητή Λίμνη Στράτου
+---
+
+Sample text  
