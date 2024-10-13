@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q24924215
+title:  Λίμνη Σαλτίνη
+---
+
+Sample text  
