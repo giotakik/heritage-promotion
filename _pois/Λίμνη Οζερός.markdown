@@ -1,0 +1,7 @@
+---
+layout: poi
+wikidatum: Q2987510
+title:  Λίμνη Οζερός
+---
+
+Sample text  
