@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Πάμε να γνωρίσουμε τις λίμνες του μεγαλύτερου σε έκταση Νομού της Ελλάδος"
-immage:https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%B9%CF%87%CF%89%CE%BD%CE%AF%CE%B4%CE%B1#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:WP_20140207_16_45_27_Panorama.jpg
+immage: https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%B9%CF%87%CF%89%CE%BD%CE%AF%CE%B4%CE%B1#/media/%CE%91%CF%81%CF%87%CE%B5%CE%AF%CE%BF:WP_20140207_16_45_27_Panorama.jpg
 categories: jekyll
 ---
