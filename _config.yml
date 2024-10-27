@@ -26,7 +26,7 @@ github_username:  το github repo σας
 
 # Build settings
 markdown: kramdown
-theme: oneflow
+theme: wind
 plugins:
   - jekyll-feed
 
