@@ -5,3 +5,4 @@
 layout: home
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/WP_20140207_16_45_27_Panorama.jpg" style="width:100%; max-width:600px; margin-bottom:20px;">
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/79/WP_20140207_16_45_27_Panorama.jpg" style="width:100%; max-width:600px; margin-bottom:20px;");
