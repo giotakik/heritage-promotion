@@ -26,7 +26,7 @@ github_username:  το github repo σας
 
 # Build settings
 markdown: kramdown
-theme: wind
+theme: theme:jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
