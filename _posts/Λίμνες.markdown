@@ -2,6 +2,6 @@
 layout: post
 title:  "Γνωρίζοντας τις λίμνες του μεγαλύτερου σε έκταση Νομού της Ελλάδος"
 image: Τριχωνίδα
-categories: jekyll
+categories: Λίμνες
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/WP_20140207_16_45_27_Panorama.jpg" style="width:100%; max-width:600px; margin-bottom:20px;">
