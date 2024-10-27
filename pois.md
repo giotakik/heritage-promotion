@@ -19,9 +19,9 @@ title: Λίμνες
 permalink: /pois/
 ---
 
-<div class="js-list">
+<div class="photos-list">
   {% for p in site.pois %}
-    <div class="js-item">
+    <div class="photos-item">
       <a href="{{ p.url | relative_url }}">
         <!-- Εικόνα της λίμνης -->
         <img src="{{ p.image }}" alt="{{ p.title }}" style="width:100%; max-width: 300px; border-radius: 10px;"/>
