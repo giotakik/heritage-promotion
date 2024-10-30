@@ -1,4 +1,4 @@
----
+--- 
 layout: page
 title: Λίμνες
 permalink: /pois/
@@ -8,10 +8,9 @@ permalink: /pois/
   {% for p in site.pois %}
     <div class="photos-item">
       <a href="{{ p.url | relative_url }}">
-        <img src="{{ p.image | relative_url }}" alt="{{ p.title }}" style="width:100%; max-width: 300px; border-radius: 10px;"/>
-        <h3>{{ p.title}}</h3>
+        <img src="{{ p.image | relative_url }}" alt="{{ p.title }}" style="width:100%; border-radius: 10px;"/>
+        <h3>{{ p.title }}</h3>
       </a>
     </div>
   {% endfor %}
 </div>
-
