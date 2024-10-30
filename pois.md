@@ -3,7 +3,8 @@ layout:  page
 title: Λίμνες
 permalink: /pois/
 ---
-<p>Οι ομορφότερες φυσικές και τεχνητές λίμνες του μεγαλύτερου σε έκταση νομού της Ελλάδας.</p>
+<p style="font-style: italic; font-size: 20px; color: darkgreen;">
+    Οι ομορφότερες φυσικές και τεχνητές λίμνες του μεγαλύτερου σε έκταση νομού της Ελλάδας.</p>
 <div class="photos-list">
   {% for p in site.pois %}
     <div class="photos-item">
