@@ -1,0 +1,22 @@
+.photos-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Δύο στήλες */
+  gap: 20px; /* Απόσταση μεταξύ των στοιχείων */
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.photos-item {
+  text-align: center;
+}
+
+.photos-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+
+.photos-item img:hover {
+  transform: scale(1.05);
+}
