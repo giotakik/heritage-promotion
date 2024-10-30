@@ -1,8 +1,8 @@
-.photos-list {
+.photos-list { 
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  max-width: 1000px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
+  gap: 20px; 
+  max-width: 1000px; 
   margin: 0 auto;
 }
 
@@ -13,10 +13,11 @@
 .photos-item img {
   width: 100% !important;
   height: auto;
+  max-width: 300px; 
   border-radius: 10px;
   transition: transform 0.3s;
 }
 
 .photos-item img:hover {
-  transform: scale(1.05);
+  transform: scale(1.05); 
 }
