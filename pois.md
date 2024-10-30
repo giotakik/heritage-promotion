@@ -1,5 +1,5 @@
 --- 
-layout:  poi
+layout:  page
 title: Λίμνες
 permalink: /pois/
 ---
