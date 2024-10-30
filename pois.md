@@ -3,11 +3,14 @@ layout: page
 title: Λίμνες
 permalink: /pois/
 ---
-
 <div class="photos-list">
+  {% for p in site.pois %}
     <div class="photos-item">
       <a href="{{ p.url | relative_url }}">
-        <img src="{{ p.image | (https://upload.wikimedia.org/wikipedia/commons/f/fb/Amvrakia_lake.jpg) }}" alt="{{ p.title }}" style="width:100%; max-width: 300px; border-radius: 10px;"/>
+        <img src="{{ p.image | relative_url }}" alt="{{ p.title }}" style="width:100%; max-width: 300px; border-radius: 10px;"/>
+        <h3>{{ p.title }}</h3>
+        <p>{{ p.description }}</p>
       </a>
     </div>
+  {% endfor %}
 </div>
