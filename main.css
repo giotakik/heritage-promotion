@@ -1,3 +1,8 @@
+.about-page .wrapper {
+    max-width: 100%; 
+    padding: 0 20px; 
+}
+
 .pois-page {
     background-color: #accbe1 !important;
     color: #333;
