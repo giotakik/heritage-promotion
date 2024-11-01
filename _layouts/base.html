@@ -4,7 +4,8 @@
   {%- include head.html -%}
 
   <body class="{{ page.body_class }}" 
-      {% if page.body_class == "pois-page" %} style="background-color: #d0e4f5;" {% endif %}>
+      {% if page.body_class == "pois-page" %} style="background-color: #d0e4f5;" {% endif %}
+      {% elsif page.body_class == "team-page" %} style="background-color: #e6ccff;" {% endif %}>
 
     {%- include header.html -%}
 
