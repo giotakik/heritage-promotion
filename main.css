@@ -1,3 +1,7 @@
+.team-page {
+    background-color: #e6ccff; /* Ανοιχτό μωβ φόντο για τη σελίδα Ομάδα */
+    color: #333;
+}
 .about-page .wrapper {
     max-width: 100%; 
     padding: 0 20px; 
