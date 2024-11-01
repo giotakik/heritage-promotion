@@ -1,5 +1,5 @@
 .about-page {
-    background-image: url('https://commons.wikimedia.org/w/index.php?search=lake+aetolia+acarnania&title=Special:MediaSearch&go=Go&type=image');
+    background-image: url(https://commons.wikimedia.org/w/index.php?search=lake+aetolia+acarnania&title=Special:MediaSearch&go=Go&type=image);
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
