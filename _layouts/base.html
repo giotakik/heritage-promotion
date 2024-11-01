@@ -5,7 +5,8 @@
 
     <body class="{{ page.body_class }}" 
       {% if page.body_class == "pois-page" %} style="background-color: #d0e4f5;" 
-      {% elsif page.body_class == "team-page" %} style="background-color: #f8e8ff" 
+      {% elsif page.body_class == "team-page" %} style="background-color: #f3e6ff;" 
+      {% elsif page.body_class == "about-page" %} style="background-image: url(https://commons.wikimedia.org/w/index.php?search=lake+aetolia+acarnania&title=Special:MediaSearch&go=Go&type=image); background-size: cover; background-position: center; background-repeat: no-repeat;" 
       {% endif %}>
 
     {%- include header.html -%}
