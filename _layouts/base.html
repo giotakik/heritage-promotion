@@ -3,7 +3,8 @@
 
   {%- include head.html -%}
 
-  <body class="{{ page.body_class }}"style="background-color: #accbe1;">
+  <body class="{{ page.body_class }}" 
+      {% if page.body_class == "pois-page" %} style="background-color: #d0e4f5;" {% endif %}>
 
     {%- include header.html -%}
 
