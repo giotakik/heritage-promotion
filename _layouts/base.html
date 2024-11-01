@@ -2,11 +2,16 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
-<body class="{{ page.body_class }}"
+
+  <body class="{{ page.body_class }}"
       {% if page.body_class == "pois-page" %} style="background-color: #d0e4f5;"
-      {% elsif page.body_class == "team-page" %} style="background-color: #f3e6ff;"
       {% elsif page.body_class == "about-page" %} 
-      style="background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(https://upload.wikimedia.org/wikipedia/commons/9/9b/%CE%9B%CE%AF%CE%BC%CE%BD%CE%B7_%CE%A4%CF%81%CE%B9%CF%87%CF%89%CE%BD%CE%AF%CE%B4%CE%B1_3_-_Trichonida_Lake_3.jpg);
+      style="background: linear-gradient(rgba(255, 255, 255, 0.35), rgba(255, 255, 255, 0.35)), url(https://upload.wikimedia.org/wikipedia/commons/4/4c/%CE%9B%CE%AF%CE%BC%CE%BD%CE%B7_%CE%A4%CF%81%CE%B9%CF%87%CF%89%CE%BD%CE%AF%CE%B4%CE%B1_2_-_Trichonida_Lake_2.jpg);
+             background-size: cover;
+             background-position: center;
+             background-repeat: no-repeat;"
+      {% elsif page.body_class == "team-page" %} 
+      style="background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)),url(https://upload.wikimedia.org/wikipedia/commons/9/9b/%CE%9B%CE%AF%CE%BC%CE%BD%CE%B7_%CE%A4%CF%81%CE%B9%CF%87%CF%89%CE%BD%CE%AF%CE%B4%CE%B1_3_-_Trichonida_Lake_3.jpg);
              background-size: cover;
              background-position: center;
              background-repeat: no-repeat;"
