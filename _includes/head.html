@@ -6,24 +6,30 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
 
 <style>
-      /* Στυλ για το φόντο και το κείμενο της σελίδας */
       body { 
-          background-color: #f9fafb; /* Απαλό γκρι-μπλε φόντο */
-          color: #333; /* Απαλό σκούρο για το κείμενο */
+          background-color: #f9fafb; 
+          color: #333; 
       }
 
-      /* Στυλ για τις παραγράφους */
       p {
-          line-height: 1.6; /* Αυξημένο line-height για πιο ευανάγνωστο κείμενο */
+          line-height: 1.6; 
           margin: 0.5em 0;
       }
 
-      /* Στυλ για τις εικόνες */
       img {
           border-radius: 8px;
           box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
           margin-bottom: 1em;
       }
+   .image-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 16px;
+    }
+    .image-grid img {
+        width: 100%;
+        height: auto;
+    }
   </style>
   
   {%- if layout.load_leaflet -%}
