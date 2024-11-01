@@ -1,10 +1,3 @@
-.about-page {
-    background-image: url(https://commons.wikimedia.org/w/index.php?search=lake+aetolia+acarnania&title=Special:MediaSearch&go=Go&type=image);
-    background-size: cover; 
-    background-position: center; 
-    background-repeat: no-repeat; 
-    color: #333; 
-}
 .team-page {
     background-color: #e6ccff; /* Ανοιχτό μωβ φόντο για τη σελίδα Ομάδα */
     color: #333;
