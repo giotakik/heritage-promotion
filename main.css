@@ -1,4 +1,7 @@
-
+.pois-page {
+    background-color: #accbe1; /* Πιο έντονο γκρι-μπλε φόντο για συγκεκριμένη σελίδα */
+    color: #333;
+}
 .photos-list {   
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
