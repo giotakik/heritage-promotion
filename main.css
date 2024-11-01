@@ -1,8 +1,7 @@
 
 .photos-list { 
-    body { background-color: #accbe1 !important;
+    background-color: #accbe1 !important;
     color: #333; 
-         }
   
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); 
