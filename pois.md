@@ -4,7 +4,7 @@ title: Λίμνες
 permalink: /pois/
 body_class: pois-page
 ---
-<p style="font-style: italic; font-size: 20px; color: dark-blue-purple;">
+<p style="font-style: italic; font-size: 20px; color: blue-purple;">
     Οι ομορφότερες φυσικές και τεχνητές λίμνες του μεγαλύτερου σε έκταση νομού της Ελλάδας.</p>
 <div class="image-grid">
   {% for p in site.pois %}
