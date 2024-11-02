@@ -23,7 +23,7 @@ baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "https://giotakik.github.io/heritage-promotion/" 
 # twitter_username: jekyllrb
 github_username:  giotakik
-facebook_username: LimnesAitoloakarnanias
+facebook_username: {% include share.html %}
 
 # Build settings
 markdown: kramdown
