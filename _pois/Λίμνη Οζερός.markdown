@@ -6,4 +6,4 @@ image: /assets/photos/Η_ΛΙΜΝΗ_ΟΖΕΡΟΣ.jpg
 ---
 
 <p>Η λίμνη Οζερός βρίσκεται στην Αιτωλοακαρνανία. Είναι μια φυσική λίμνη με πλούσια βιοποικιλότητα, περιβάλλεται από όμορφα τοπία και αποτελεί σημαντικό βιότοπο για υδρόβια πουλιά και άλλα είδη ζώων. Η ήρεμη ατμόσφαιρα και το φυσικό περιβάλλον την καθιστούν ιδανικό προορισμό για περιπατητές και φυσιολάτρες.
-Η λίμνη ανήκει στο πρόγραμμα  <a href="https://el.wikipedia.org/wiki/Natura_2000_%CE%9D%CE%BF%CE%BC%CE%BF%CF%8D_%CE%91%CE%B9%CF%84%CF%89%CE%BB%CE%BF%CE%B1%CE%BA%CE%B1%CF%81%CE%BD%CE%B1%CE%BD%CE%AF%CE%B1%CF%82" target="_blank" class="green-text">Natura 2000</a> με αναγνωριστικό κωδικό GR2310008.</p>
+<p>Η λίμνη ανήκει στο πρόγραμμα <a href="https://el.wikipedia.org/wiki/Natura_2000_%CE%9D%CE%BF%CE%BC%CE%BF%CF%8D_%CE%91%CE%B9%CF%84%CF%89%CE%BB%CE%BF%CE%B1%CE%BA%CE%B1%CF%81%CE%BD%CE%B1%CE%BD%CE%AF%CE%B1%CF%82" target="_blank" style="color: green;">Natura 2000</a> με αναγνωριστικό κωδικό GR2310008.</p>
