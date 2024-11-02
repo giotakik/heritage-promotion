@@ -6,3 +6,5 @@ image: /assets/photos/Amvrakia5705.jpg
 ---
 
 Η λίμνη Αμβρακία βρίσκεται στην Αιτωλοακαρνανία, κοντά στον Αμβρακικό κόλπο. Είναι λιμνοθάλασσα με γλυκό νερό, πλούσια σε ψάρια και υδρόβια ζωή, ενώ περιβάλλεται από πυκνή βλάστηση. Η λίμνη αποτελεί σημαντικό βιότοπο για την ορνιθοπανίδα και προσφέρει γαλήνιο περιβάλλον για τους επισκέπτες.
+<p>Η λίμνη ανήκει στο πρόγραμμα <a href="https://el.wikipedia.org/wiki/Natura_2000_%CE%9D%CE%BF%CE%BC%CE%BF%CF%8D_%CE%91%CE%B9%CF%84%CF%89%CE%BB%CE%BF%CE%B1%CE%BA%CE%B1%CF%81%CE%BD%CE%B1%CE%BD%CE%AF%CE%B1%CF%82" target="_blank" style="color: green;">Natura 2000</a> με αναγνωριστικό κωδικό GR2310007.</p>
+<p><span style="color: purple;"><b>Event</b></span>: Το πρώτο Amvrakia Music Festival πραγματοποιήθηκε στις 16 και 17 Αυγούστου 20024 και πλαισιώθηκε από αγαπημένους καλλιτέχνες. Αν θέλετε να μείνετε συντονισμένοι, μάθετε περισσότερα <a href="https://amvrakiamusicfestival.gr/" target="_blank">εδώ</a>.</p>
