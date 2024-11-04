@@ -1,7 +1,7 @@
 ---
 layout: poi
 wikidatum: Q926593
-title:  Λίμνη Κρεμαστών
+title:  Τεχνητή Λίμνη Κρεμαστών
 image: /assets/photos/640px-Kremasta_Lake_06.jfif
 ---
 
